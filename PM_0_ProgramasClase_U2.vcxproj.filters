@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <MASM Include="P0_Check.asm" />
+    <MASM Include="P1_MOV.asm" />
+    <MASM Include="P2_MOV_parte2.asm" />
+    <MASM Include="P3_MOV_parte3.asm" />
+    <MASM Include="P4_MOV_parte4.asm" />
+    <MASM Include="P5_ADD.asm" />
+    <MASM Include="P6_ADD_parte2.asm" />
+    <MASM Include="P7_SUB.asm" />
+    <MASM Include="P8_MUL.asm" />
+    <MASM Include="P9_MUL_parte2.asm" />
+    <MASM Include="P10_MUL_parte3.asm" />
+    <MASM Include="P11_DIV.asm" />
+    <MASM Include="P12_DIV_parte2.asm" />
+    <MASM Include="P13_DIV_parte3.asm" />
+    <MASM Include="P14_ImpresionTexto.asm" />
+    <MASM Include="P15_ImpresionNumero.asm" />
+    <MASM Include="P16_LecturaNumero.asm" />
+    <MASM Include="P17_Promedio3Nums.asm" />
+    <MASM Include="P18_XalCuadrado.asm" />
+    <MASM Include="P19_IntercambioValores.asm" />
+    <MASM Include="P20_SaltosIncondicionales.asm" />
+    <MASM Include="P21_SaltoCondicional_Parte1.asm" />
+    <MASM Include="P22_SaltoCondicional_Parte2.asm" />
+    <MASM Include="P23_SaltoCondicional_Parte3.asm" />
+    <MASM Include="P24_SaltoCondicionales_Ej.asm" />
+    <MASM Include="P25_SaltoCond_Ejemplo.asm" />
+    <MASM Include="P_26_SaltosComoCiclos.asm" />
+    <MASM Include="P_27_Ciclos_Parte2.asm" />
+    <MASM Include="P28_CicloEjemplo.asm" />
+    <MASM Include="P_29_TablaMultiplicar.asm" />
+    <MASM Include="P_30_LOOP_.asm" />
+    <MASM Include="P31_LoopNumsPares.asm" />
+    <MASM Include="P_32_CiclosAnidados_parte1.asm" />
+    <MASM Include="P_33_CiclosAnidados_parte2.asm" />
+    <MASM Include="P_34_CiclosAnidados_parte3.asm" />
+    <MASM Include="P_35_UsoVariables_parte1.asm" />
+    <MASM Include="P_36_UsoVariables_parte2.asm" />
+    <MASM Include="P_37_DetenerCicloUsuario.asm" />
+    <MASM Include="P_38_SwitchCaseSimulado.asm" />
+    <MASM Include="P_39_switchAnidados.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+</Project>
